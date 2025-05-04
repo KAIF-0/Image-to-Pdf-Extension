@@ -1,9 +1,9 @@
 {
-  "name": "pdf-g",
-  "displayName": "Pdf g",
+  "name": "pdf-wizard",
+  "displayName": "PDF Wizard",
   "version": "0.0.1",
   "description": "Image to pdf generator",
-  "author": "Plasmo Corp. <foss@plasmo.com>",
+  "author": "Neyo",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
